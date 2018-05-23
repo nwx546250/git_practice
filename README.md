@@ -1,2 +1,2 @@
 # git_practice
-联系git
+练习git
